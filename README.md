@@ -1,16 +1,31 @@
-## Hi there 👋
+# dengayuenkur
 
-<!--
-**dengayuenkur/dengayuenkur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
 
-Here are some ideas to get you started:
+I am a dynamic cybersecurity professional with a strong foundation in software engineering and hands-on experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- Network security
+- Web application security
+- Mobile security
+- Digital Forensics
+
+Proven ability to adapt quickly to new challenges and environments, underscored by a commitment to continuous learning and professional growth. Aiming to leverage academic expertise and practical training to contribute to innovative cybersecurity solutions and strengthen organizational defenses.
+
+## Skills and Expertise
+
+- **Network Security:** Proficient in securing and managing network infrastructures.
+- **Web Application Security:** Experienced in identifying and mitigating web vulnerabilities.
+- **Mobile Security:** Skilled in protecting mobile devices and applications from threats.
+- **Digital Forensics:** Capable of conducting thorough digital investigations and analysis.
+
+## Professional Goals
+
+- Continuously learn and adapt to the evolving cybersecurity landscape.
+- Contribute to innovative cybersecurity solutions.
+- Strengthen organizational defenses through strategic implementation of security measures.
+
+## Contact
+
+For more information or collaboration opportunities, please reach out via [GitHub](https://github.com/dengayuenkur) or vIA EMAIL :dengayuen2018@gmail.com
 - ⚡ Fun fact: ...
 -->
