@@ -23,7 +23,7 @@ Proven ability to adapt quickly to new challenges and environments, underscored 
 
 ## Contact
 
-For more information or collaboration opportunities, please reach out via [GitHub](https://github.com/dengayuenkur) or vIA EMAIL: dengayuen2018@gmail.com
+For more information or collaboration opportunities, please reach out via [GitHub](https://github.com/dengayuenkur) or via EMAIL: dengayuen2018@gmail.com
 
 -IG:dengayuenkur
 -FB:iamdengayuenkur
