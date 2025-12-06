@@ -1,5 +1,5 @@
 ## Hi there,
-I am South Sudanese dynamic cybersecurity professional with a strong foundation in software engineering and hands-on experience in:
+I am a dynamic cybersecurity professional with a strong foundation in software engineering and hands-on experience in:
 
 - Network security
 - Web application security
